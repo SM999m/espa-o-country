@@ -2,4 +2,9 @@ body
 h1{
     background:
 #0602f0
+h1{
+    text-align :center;
+    text-decoration: #000000 ;
+    font-size: 20px;
+}
 }
